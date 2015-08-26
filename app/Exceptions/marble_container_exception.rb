@@ -1,0 +1,2 @@
+class MarbleContainerException < RuntimeError
+end
